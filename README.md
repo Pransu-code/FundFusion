@@ -30,3 +30,5 @@ CSS
 JavaScript
 Netlify
 
+
+tested ssh
